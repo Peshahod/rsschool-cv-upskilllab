@@ -1,82 +1,77 @@
-# **Пинчук Владислав Александрович**
-
+# **Pinchuk Vladislav Alexandrovich**
 ```
-Мужчина, 30 лет, родился 24 мая 1990
-```
-```
-+375 (44)  515 49 83
-freebka@gmail.com — предпочитаемый способ связи
+Male, 30, born May 24, 1990
 ```
 ```
-Проживает: Минск
-Гражданство: Беларусь
++375 (44) 515 49 83
+freebka@gmail.com - preferred communication method
+```
+```
+Residence: Minsk
+Citizenship: Belarus
 ```
 ## Event Specialists / Event Manager
-### Опыт работы — 11 лет 8 месяцев
+### Work experience - 11 years 8 months
 
 
-## Государственное учреждение Минскконцерт
-Июль 2020  — настоящее время
-3 месяца
-### **Заведующий хозяйством**
+## State institution Minskconcert
+July 2020 - present
+3 months
+### **Head of the household**
 ```
-Контроль наличия в подразделениях, закупка и контроль доставки товарно-материальных ценностей:
-питьевая вода, канц.товары, электро-хозяйственные товары, бытовая химия, расходные материалы.
-Закупка звукового, светового и компьютерного оборудования в организацию.
-Инвентаризация, учет и списание материальных ценностей.
-Закупка мебели, бытовой и оргтехники. Комплексная организация новых рабочих мест.
-Обеспечение персонала необходимым оборудованием для выполнения текущей работы.
-```
-
-## Музыкальный проект "Пешеходка"
-Май 2014  — настоящее время
-6 лет 5 месяцев
-### **Режиссер-координатор**
-```
-Руководитель команды проекта "Пешеходка": Режиссура, написание сценариев, координация ивентов,
-создание контента для социальных сетей проекта, видеосъемка событий проекта, монтаж коротких
-роликов для социальных сетей проекта, монтаж aftermovie, букинг артитстов и др.
+Availability control in departments, purchase and delivery control of inventory items:
+drinking water, stationery, electrical household goods, household chemicals, consumables.
+Purchase of sound, light and computer equipment for the organization.
+Inventory, accounting and write-off of material assets.
+Purchase of furniture, household and office equipment. Comprehensive organization of new jobs.
+Provision of personnel with the necessary equipment to carry out current work.
 ```
 
-### Образование
-
-### Высшее
-
-(2013) **БГУКИ**
-Факультет традиционной белорусской культуры и современного искусства
-
-### Ключевые навыки
+## Musical project "Peshahodka"
+May 2014 - present
+6 years 5 months
+### **Director-Coordinator**
 ```
-Знание языков 
-Белорусский — Родной
-Английский — A1 — Начальный
-Русский — B2 — Средне-продвинутый
+Leader of the "Peshahodka" project team: Directing, scripting, coordinating events, content creation for social networks of the project, video filming of project events, editing of short videos for social networks of the project, editing aftermovie, booking artists, etc.
 ```
-##### Навыки Управление проектами, Руководство коллективом, Работа в команде, Креативность, Пользователь ПК, Заключение договоров, Грамотная речь, Быстрообучаемость, Режиссура, Коммуникабельность, Организаторские навыки, Организация мероприятий, Навыки презентации, Внутренние коммуникации, Event Management, Выездные мероприятия, Ведение групп в социальных сетях, Корпоративные мероприятия, Корпоративная культура, Видеосъемка, Видеомонтаж, MS PowerPoint.
 
-### Дополнительная информация
+### Education
 
-### **Обо мне**
-Опыт работы в event - 7 лет.
-Навык реализации мероприятия "под ключ" - от написания концепции до фактического проведения.
-Ответственный и исполнительный сотрудник. Имею опыт создания и руководства командой для реализации ивент-проектов.
-Личнное достижения за время работы в сфере : разработка, реализация и полное сопровождение
-фестиваля городского отдыха "ПЕШЕХОДКА"
-Подробнее о фестивале:
-* https://vk.com/peshahodka
-* https://youtu.be/58-E_I_
+### Higher
 
-Большой опыт букинга артистов, собственная база контактов.
-Имею набор универсальных знаний и навыков из разных сфер деятельности, позволяющий
-выполнять сопутствующие задачи:
-* составление смет, планирование бюджета проекта;
-* заключение договоров с подрядчиками, контроль выполнения договорных отношений;
-* закупка услуг и товаров используя конкурентный лист;
-* сотрудничество с государственными организациями и службами (получение положительных
-решений по организации поставленной задачи).
-Уверенный пользователь ПК. Легко обучаюсь. Активный пользователь социальных сетей.
-Люблю активный отдых (пешие и водные походы), снимать видео, играть в видео игры. Имею
-универсальный музыкальный вкус и широкие взгляды на культуру и искусство.
+(2013) **Belarusian State University of Culture and Arts**
+Faculty of Traditional Belarusian Culture and Contemporary Art
 
+### Key skills
+```
+Knowledge of languages:
+Belarusian - Native
+English - A1 - Beginner
+Russian - B2 - Intermediate advanced
+```
+##### Skills Project Management, Team Leadership, Teamwork, Creativity, PC User, Contracting, Speaking, Fast Learning, Directing, Communication Skills, Organizational Skills, Event Organization, Presentation Skills, Internal Communications, Event Management, Offsite Events , Leading groups in social networks, Corporate events, Corporate culture, Videography, Video editing, MS PowerPoint.
 
+### Additional Information
 
+### **About me**
+Experience in event - 7 years.  
+The skill of implementing an event on a turnkey basis - from writing a concept to actually holding it.
+Responsible and executive employee. I have experience in creating and leading a team for the implementation of event projects.
+Personal achievements during work in the field: development, implementation and full support
+festival of urban recreation "PESHAHODKA".  
+More about the festival:  
+<https://vk.com/peshahodka/>  
+<https://youtu.be/58-E_I_0228/>  
+
+Extensive experience in booking artists, our own contact database.
+I have a set of universal knowledge and skills from different fields of activity, allowing
+perform related tasks:
+* budgeting, project budget planning;
+* conclusion of contracts with contractors, control over the implementation of contractual relations;
+* purchase of services and goods using the competitive list;
+* cooperation with government organizations and services (obtaining positive
+decisions on the organization of the task).  
+
+Confident PC user. Easy to learn. An active user of social networks.  
+I love outdoor activities (hiking and water trips), shooting videos, playing video games. I have
+universal taste in music and broad views of culture and art.
